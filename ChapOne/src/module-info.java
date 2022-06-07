@@ -1,3 +1,3 @@
 module ChapOne {
-	requires java.se;
+    requires java.se;
 }
